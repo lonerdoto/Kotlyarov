@@ -1,12 +1,12 @@
 @font-face {
     font-family: "GilroyMedium";
-    src: url("my-repo/fonts/Gilroy-Medium.ttf");
+    src: url("../fonts/Gilroy-Medium.ttf");
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "Gilroy-Bold";
-    src: url("my-repo/Gilroy-Bold.ttf");
+    src: url("../fonts/Gilroy-Bold.ttf");
     font-weight: 700;
     font-style: normal;
 }
