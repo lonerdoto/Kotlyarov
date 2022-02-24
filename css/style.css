@@ -56,7 +56,9 @@ ul{
 .header__head_text{
     text-decoration: none;
 }
-
+.main-header{
+    padding-bottom: 100px;
+}
 .main-content{
     align-items: flex-end;
     padding-bottom: 50px;
@@ -147,6 +149,7 @@ ul{
     justify-content: space-between;
 }
 .skills__header_list{
+    color: #828282;;
     list-style: none;
 }
 .skills__header_item{
@@ -208,9 +211,11 @@ ul{
     list-style: none;
 }
 .portfolio-text{
+    text-decoration-line: underline;
     padding-bottom: 95px;
     padding-top: 45px;
     margin: 0;
+    font-family: "Gilroy-Medium";
     font-size: 18px;
     line-height: 22px;
     text-align: center;
@@ -278,7 +283,7 @@ ul{
 .footer-page__society_text{
     padding-top: 45px;
     margin: 0;
-    font-family: Gilroy-Medium;
+    font-family: "Gilroy-Medium";
     font-size: 14px;
     line-height: 17px;
     text-align: center;
